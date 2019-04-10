@@ -73,7 +73,7 @@ async index() {
 ```
 
 
-## How I Can Get Token
+## How Can I Get Token
 1. Login to https://bitly.com/
 2. Open Your 'Edit Profile'
 3. Click 'Generic Access Token'
